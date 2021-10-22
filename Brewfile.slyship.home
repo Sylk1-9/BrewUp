@@ -19,7 +19,7 @@ brew "gtk+3"
 brew "htop"
 brew "httrack"
 brew "ipython"
-brew "node"
+brew "node", link: false
 brew "jupyterlab"
 brew "numpy"
 brew "qt@5"
