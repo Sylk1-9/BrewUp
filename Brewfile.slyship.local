@@ -50,7 +50,6 @@ cask "coconutbattery"
 cask "deluge"
 cask "discord"
 cask "diskmaker-x"
-cask "dozer"
 cask "firefox"
 cask "flux"
 cask "geogebra"
@@ -97,6 +96,5 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Shazam", id: 897118787
 mas "TextWrangler", id: 404010395
-mas "Xcode", id: 497799835
 mas "Xkey Plus", id: 833376641
 mas "XKeyPiano", id: 965123264
