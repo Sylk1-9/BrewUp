@@ -17,7 +17,7 @@ brew "git"
 brew "gtk+3"
 brew "htop"
 brew "httrack"
-brew "ipython", link: false
+brew "ipython"
 brew "node"
 brew "jupyterlab"
 brew "mas"
